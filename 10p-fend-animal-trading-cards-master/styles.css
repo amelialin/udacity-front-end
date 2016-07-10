@@ -1,0 +1,36 @@
+#card {
+  display: inline-block;
+  padding: 0 15px 15px 15px;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  border-radius: 10px;
+  background-color: indigo;
+  box-shadow: 10px 10px 5px 0px rgba(227,223,227,1);
+}
+#image {
+  width: 300px;
+  height: auto;
+  margin-bottom: 10px;
+  border: 1px solid mediumpurple;
+  border-radius: 10px;
+}
+#information{
+  box-sizing: border-box;
+  width: 300px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid mediumpurple;
+  border-radius: 10px;
+  font-size: small;
+}
+.interesting-fact {
+  font-style: italic;
+}
+.fact-list {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+.list-item-title {
+  font-weight: bold;
+}
