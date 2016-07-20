@@ -1,1 +1,16 @@
-if you catch it early enough seems like they can just do a local treatment; if it gets severe then they have to fumigate the house
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+
+How to strikethrough text and superscript text in HTML, which I did not know before.
+
+  * What has been easy?
+
+I have some background knowledge of HTML so the basic tags and structure are familiar.
+
+  * What has been difficult?
+
+Not too much so far…mostly just getting used to the Udacity interface is a little tricky.
+
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+I Googled to figure out which tags to use!
