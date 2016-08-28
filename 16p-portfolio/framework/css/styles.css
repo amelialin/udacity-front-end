@@ -1,3 +1,23 @@
+/* Good default styles to include */
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+img, embed, object, video {
+  max-width: 100%
+}
+
+nav a, button {
+  min-width: 48px;
+  min-height: 48px;
+}
+
+/* Rest of CSS */
+
 body {
   font-family: "Raleway", sans-serif;
   color: #747704;
